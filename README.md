@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=380&lines=Moses+Keraso;Full-Stack+Developer;System+Builder;Automation+and+AI+agents;Intergrating+Secure+payment+systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37E4F7&random=true&width=380&lines=Moses+Keraso;Full-Stack+Developer;System+Builder;Automation+and+AI+agents;Intergrating+Secure+payment+systems" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
