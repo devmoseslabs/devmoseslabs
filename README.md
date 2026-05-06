@@ -1,70 +1,60 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4D8EFF&center=true&vCenter=true&width=800&lines=Moses+Keraso;Full-Stack+Developer;Systems+Builder;Automation+Engineer;Django+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4D8EFF&center=true&vCenter=true&width=800&lines=Moses+Keraso;Full-Stack+Developer;Systems+Builder;Automation+Engineer;Django+Specialist" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
-# **I'm Moses Keraso**
+# **Hi, I'm Moses Keraso**
 
 ### **Full-Stack Developer | Systems Builder | Automation Engineer**
 
 </div>
 
----
-
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://api.dicebear.com/7.x/identicon/svg?seed=devmoseslabs&backgroundColor=0d1117&primaryColor=4d8eff" width="250" alt="Moses Keraso" style="border-radius: 16px;" />
+     <img src="https://api.dicebear.com/7.x/identicon/svg?seed=devmoseslabs&backgroundColor=0d1117&primaryColor=4d8eff" width="250" alt="Moses Keraso" style="border-radius: 16px;" />
     </td>
     <td align="left" width="67%">
-
-### ⚡ About Me
-
-I build **scalable web systems and automation tools** using Python and Django.
-
-My focus is not just writing code — I design **systems that solve real problems**, automate workflows, and improve how businesses operate.
-
-I specialize in:
-- Backend systems architecture  
-- WhatsApp automation agents for business workflows  
-- Full-stack web platforms with clean, efficient UI  
-
-I approach development like engineering —  
-**build it clean, make it scalable, and ensure it actually works.**
-
-   </td>
+       <h3>⚡ About Me</h3> 
+      <p>
+        I'm a <b>Python (Django) full-stack developer</b> focused on building scalable systems and automation tools.
+      </p>
+      <p>
+        My work centers around <b>backend architecture</b>, <b>web platforms</b>, and <b>WhatsApp automation agents</b> that help businesses streamline communication and workflows.
+      </p>
+      <p>
+        I focus on building systems that are <i>practical, efficient, and production-ready</i> — not just functional.
+      </p>
+    </td>
   </tr>
 </table>
-
----
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Core Technologies
-<table>
+<h3 align="center">Frontend</h3>
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
   </tr>
 </table>
 
-### 🧠 Frameworks & Backend
-<table>
+<h3 align="center">Backend & Database</h3>
+<table align="center">
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td>
   </tr>
 </table>
 
-### 🔧 Tools & Workflow
-<table>
+<h3 align="center">Tools & Workflow</h3>
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
@@ -73,64 +63,19 @@ I approach development like engineering —
   </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Systems I Build
-
-</div>
-
-### 🧩 Task Pro — Gamified Task Management Platform
-- **Problem:** Low engagement in traditional task systems  
-- **Solution:** Built a system with performance tracking, tiers, and user engagement mechanics  
-- **Impact:** Improves task completion and user retention  
-
----
-
-### 🤖 WhatsApp Automation Agent
-- **Problem:** Slow customer response and manual workflows  
-- **Solution:** Automated WhatsApp system for messaging, marketing, and workflows  
-- **Impact:** Scalable communication and faster response times  
-
----
-
-### 🌐 Offline Sharing System
-- **Problem:** File sharing without internet is unreliable  
-- **Solution:** Local network-based sharing platform  
-- **Impact:** Enables seamless offline collaboration  
-
----
-
-### ❤️ Dating Platform — User Matching System
-- **Problem:** Poor UX and cluttered interaction in many platforms  
-- **Solution:** Clean system for profiles, matching, and interaction  
-- **Impact:** Demonstrates complex user-driven system design  
-
----
-
-<div align="center">
-
-## 🧠 Core Focus
-
-</div>
-
+<h3 align="center">Core Focus</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Django%20Systems-4D8EFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-0A0A0B?style=for-the-badge&logo=python&logoColor=4D8EFF" />
   <img src="https://img.shields.io/badge/WhatsApp%20Agents-4D8EFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Engineering-0A0A0B?style=for-the-badge&logo=fastapi&logoColor=4D8EFF" />
+  <img src="https://img.shields.io/badge/API%20Development-0A0A0B?style=for-the-badge" />
 </p>
 
----
+</div>
 
 <div align="center">
 
 ## 📊 GitHub Stats
-
-</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devmoseslabs&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=4D8EFF&text_color=c9d1d9&title_color=4D8EFF" />
@@ -140,13 +85,9 @@ I approach development like engineering —
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmoseslabs&theme=dark&background=0d1117&hide_border=true&stroke=4D8EFF&ring=4D8EFF&fire=4D8EFF" />
 </p>
 
----
-
-<div align="center">
-
-## 📬 Connect With Me
-
 </div>
+
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://moseskeraso.com">
@@ -160,10 +101,7 @@ I approach development like engineering —
   </a>
 </p>
 
----
-
 <div align="center">
-
-<i>Building scalable systems and automation tools that actually solve problems.</i>
-
+  <br>
+  <sub>🌍 Building scalable systems & automation tools | 🚀 Open to opportunities</sub>
 </div>
