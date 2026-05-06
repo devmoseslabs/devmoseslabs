@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4D8EFF&center=true&vCenter=true&width=800&lines=Moses+Keraso;Full-Stack+Developer;Systems+Builder;Automation+Engineer;Django+Specialist" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&vCenter=true&lines=Moses+Keraso;Full-Stack+Developer;System+Builder;Automation+%26+AI+Agents;Building+WhatsApp+Agents+for+Business;Integrating+Secure+Payment+Systems" 
+    alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
