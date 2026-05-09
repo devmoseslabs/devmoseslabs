@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-     <img src="[https://avatars.githubusercontent.com/u/179184821?v=4&size=64]seed=devmoseslabs&backgroundColor=0d1117&primaryColor=4d8eff" width="250" alt="Moses Keraso" style="border-radius: 16px;" />
+     <img src="https://avatars.githubusercontent.com/u/179184821?v=4" width="250" alt="Moses Keraso" style="border-radius: 16px;" />
     </td>
     <td align="left" width="67%">
        <h3>⚡ About Me</h3> 
