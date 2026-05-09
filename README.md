@@ -96,7 +96,7 @@
   <a href="https://github.com/devmoseslabs">
     <img src="https://img.shields.io/badge/GitHub-0A0A0B?style=for-the-badge&logo=github&logoColor=4D8EFF" />
   </a>
-  <a href="mailto:contact@devmoseslabs.com">
+  <a href="mailto:mosesdevbots@gmail.com">
     <img src="https://img.shields.io/badge/Email-4D8EFF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
