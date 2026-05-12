@@ -40,7 +40,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
   </tr>
 </table>
 
@@ -51,7 +51,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis</td>
   </tr>
 </table>
 
@@ -62,8 +62,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kalilinux" width="48"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kalilinux" width="48"/><br>KaliLinux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
   </tr>
 </table>
 
