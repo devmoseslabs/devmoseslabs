@@ -51,6 +51,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>mysql</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis</td>
   </tr>
 </table>
