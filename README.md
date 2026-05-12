@@ -62,7 +62,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kali linux" width="48"/><br>KaliLinux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kali-linux" width="48"/><br>KaliLinux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
   </tr>
 </table>
