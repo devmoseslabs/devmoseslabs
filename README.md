@@ -24,7 +24,7 @@
         My work centers around <b>backend architecture</b>, <b>web platforms</b>, and <b>WhatsApp automation agents</b> that help businesses streamline communication and workflows.
       </p>
       <p>
-        I build systems that are reliable, efficient, and designed for real-world use — not just functional.
+        I build systems that are <i>reliable, efficient, and built for real-world use</i> — not just functional.
       </p>
     </td>
   </tr>
@@ -87,11 +87,11 @@
   <tr>
     <th align="left">Project</th>
     <th align="left">Description</th>
-    <th align="center">Status / Link</th>
+    <th align="center">Status</th>
   </tr>
   <tr>
     <td><b>DatingBridge</b></td>
-    <td>A dating platform that connects people through shared interests and compatibility.</td>
+    <td>A dating platform connecting people through shared interests and compatibility.</td>
     <td align="center"><em>Link coming soon</em></td>
   </tr>
   <tr>
