@@ -81,40 +81,6 @@
 
 <div align="center">
 
-## Featured Projects
-
-<table align="center">
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="center">Status</th>
-  </tr>
-  <tr>
-    <td><b>DatingBridge</b></td>
-    <td>A dating platform connecting people through shared interests and compatibility.</td>
-    <td align="center"><em>Link coming soon</em></td>
-  </tr>
-  <tr>
-    <td><b>AI Fitness Coach</b></td>
-    <td>AI‑powered fitness coaching with personalized workout and nutrition plans.</td>
-    <td align="center"><em>Link coming soon</em></td>
-  </tr>
-  <tr>
-    <td><b>Moses Bots</b></td>
-    <td>WhatsApp automation agents that streamline business communication and workflows.</td>
-    <td align="center"><em>Link coming soon</em></td>
-  </tr>
-  <tr>
-    <td><b>Renata Health World</b></td>
-    <td>A health and wellness platform focused on holistic care and reliable information.</td>
-    <td align="center"><em>Link coming soon</em></td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 <p align="center">
