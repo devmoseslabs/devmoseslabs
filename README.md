@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37E4F7&random=true&width=380&lines=Moses+Keraso;Full-Stack+Developer;System+Builder;Automation+and+AI+agents;Intergrating+Secure+payment+systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=37E4F7&random=true&width=380&lines=Moses+Keraso;Full-Stack+Developer;System+Builder;Automation+%26+AI+Agents;Integrating+Secure+Payment+Systems" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -18,13 +18,13 @@
     <td align="left" width="67%">
        <h3>⚡ About Me</h3> 
       <p>
-        I'm a <b>Python (Django) full-stack developer</b> focused on building scalable systems and automation tools.
+        I'm a full-stack developer working with Python and Django, focused on scalable systems and automation tools.
       </p>
       <p>
         My work centers around <b>backend architecture</b>, <b>web platforms</b>, and <b>WhatsApp automation agents</b> that help businesses streamline communication and workflows.
       </p>
       <p>
-        I focus on building systems that are <i>practical, efficient, and production-ready</i> — not just functional.
+        I build systems that are reliable, efficient, and designed for real-world use — not just functional.
       </p>
     </td>
   </tr>
@@ -40,7 +40,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind CSS</td>
   </tr>
 </table>
 
@@ -50,9 +50,9 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQlite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>SQLite</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>mysql</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis</td>
   </tr>
 </table>
@@ -76,6 +76,40 @@
   <img src="https://img.shields.io/badge/WhatsApp%20Agents-4D8EFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API%20Development-0A0A0B?style=for-the-badge" />
 </p>
+
+</div>
+
+<div align="center">
+
+## Featured Projects
+
+<table align="center">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="center">Status / Link</th>
+  </tr>
+  <tr>
+    <td><b>DatingBridge</b></td>
+    <td>A dating platform that connects people through shared interests and compatibility.</td>
+    <td align="center"><em>Link coming soon</em></td>
+  </tr>
+  <tr>
+    <td><b>AI Fitness Coach</b></td>
+    <td>AI‑powered fitness coaching with personalized workout and nutrition plans.</td>
+    <td align="center"><em>Link coming soon</em></td>
+  </tr>
+  <tr>
+    <td><b>Moses Bots</b></td>
+    <td>WhatsApp automation agents that streamline business communication and workflows.</td>
+    <td align="center"><em>Link coming soon</em></td>
+  </tr>
+  <tr>
+    <td><b>Renata Health World</b></td>
+    <td>A health and wellness platform focused on holistic care and reliable information.</td>
+    <td align="center"><em>Link coming soon</em></td>
+  </tr>
+</table>
 
 </div>
 
