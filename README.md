@@ -16,7 +16,7 @@
      <img src="https://avatars.githubusercontent.com/u/179184821?v=4" width="250" alt="Moses Keraso" style="border-radius: 16px;" />
     </td>
     <td align="left" width="67%">
-       <h3>⚡ About Me</h3> 
+       <h3><img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/user.svg" width="20" height="20" style="vertical-align: middle;"> About Me</h3> 
       <p>
         I'm a full-stack developer working with Python and Django, focused on scalable systems and automation tools.
       </p>
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/stack.svg" width="22" height="22" style="vertical-align: middle;"> Tech Stack
 
 <h3 align="center">Frontend</h3>
 <table align="center">
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/chart-bar.svg" width="22" height="22" style="vertical-align: middle;"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devmoseslabs&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=4D8EFF&text_color=c9d1d9&title_color=4D8EFF" />
